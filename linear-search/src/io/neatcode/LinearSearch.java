@@ -1,3 +1,5 @@
+package io.neatcode;
+
 import java.util.logging.Logger;
 
 /**

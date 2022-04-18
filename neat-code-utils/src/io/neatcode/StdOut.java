@@ -7,9 +7,11 @@ import java.util.logging.Logger;
  */
 public class StdOut {
 
+	private StdOut() {}
+
 	private static final Logger log = Logger.getLogger(StdOut.class.getName());
 
-	public void info(String message) {
+	public static void info(String message) {
 		log.info(message);
 	}
 }

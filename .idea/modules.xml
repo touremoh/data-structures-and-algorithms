@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/binary-search/binary-search.iml" filepath="$PROJECT_DIR$/binary-search/binary-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/find-duplicates/find-duplicates.iml" filepath="$PROJECT_DIR$/find-duplicates/find-duplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/google-algo-challenges/google-algo-challenges.iml" filepath="$PROJECT_DIR$/google-algo-challenges/google-algo-challenges.iml" />
       <module fileurl="file://$PROJECT_DIR$/linear-search/linear-search.iml" filepath="$PROJECT_DIR$/linear-search/linear-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/neat-code-utils/neat-code-utils.iml" filepath="$PROJECT_DIR$/neat-code-utils/neat-code-utils.iml" />
     </modules>
